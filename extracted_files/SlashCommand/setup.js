@@ -51,6 +51,7 @@ module.exports = {
             name: 'category',
             description: 'Category for opening the ticket',
             type: 7,
+            channel_types: [4]
             required: true,
         },
         {
