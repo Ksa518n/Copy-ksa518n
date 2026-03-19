@@ -1,0 +1,5 @@
+node_modules/
+.env
+DataBase.json
+DeleteBase.json
+DataBots/
